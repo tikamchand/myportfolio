@@ -9,6 +9,7 @@ html {
 }
 /* Home */
 .container {
+  display: block !important;
   position: absolute;
   width: 100%;
   height: 100%;
@@ -26,7 +27,7 @@ html {
   /* box-shadow: inset 120px 100px 250px #000000, inset -120px -100px 250px #000000; */
 }
 .container > h1 {
-  display: flex !important;
+  display: flex;
   position: absolute;
   z-index: 4;
   top: 30%;
