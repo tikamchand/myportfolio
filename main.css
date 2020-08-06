@@ -7,9 +7,6 @@ body {
 html {
   scroll-behavior: smooth;
 }
-.home{
-  display: block !important;
-}
 /* Home */
 .container {
   display: block;
