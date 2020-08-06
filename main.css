@@ -7,9 +7,12 @@ body {
 html {
   scroll-behavior: smooth;
 }
+.home{
+  display: block !important;
+}
 /* Home */
 .container {
-  display: block !important;
+  display: block;
   position: absolute;
   width: 100%;
   height: 100%;
